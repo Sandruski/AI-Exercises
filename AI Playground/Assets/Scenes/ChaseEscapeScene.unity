@@ -312,7 +312,7 @@ MonoBehaviour:
   target: {fileID: 1628871569}
   speed: 1
   rotationAngle: 90
-  maxDistanceAway: 5
+  maxDistanceAway: 10
   moveToState: 0
 --- !u!136 &398896086
 CapsuleCollider:
